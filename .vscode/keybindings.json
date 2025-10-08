@@ -1,0 +1,20 @@
+[
+    {
+        "key": "f5",
+        "command": "workbench.action.tasks.runTask",
+        "args": "Build and Run C Program",
+        "when": "editorLangId == c"
+    },
+    {
+        "key": "ctrl+f5",
+        "command": "workbench.action.tasks.runTask", 
+        "args": "Build C Program",
+        "when": "editorLangId == c"
+    },
+    {
+        "key": "shift+f5",
+        "command": "workbench.action.tasks.runTask",
+        "args": "Build C Program (Optimized)",
+        "when": "editorLangId == c"
+    }
+]
