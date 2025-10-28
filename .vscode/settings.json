@@ -4,7 +4,16 @@
     "C_Cpp.default.intelliSenseMode": "linux-gcc-x64",
     "files.associations": {
         "*.c": "c",
-        "*.h": "c"
+        "*.h": "c",
+        "array": "c",
+        "hash_map": "c",
+        "bitset": "c",
+        "string_view": "c",
+        "format": "c",
+        "initializer_list": "c",
+        "ranges": "c",
+        "span": "c",
+        "valarray": "c"
     },
     "editor.formatOnSave": true,
     "editor.defaultFormatter": "ms-vscode.cpptools",
