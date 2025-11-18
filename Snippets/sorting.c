@@ -1,8 +1,6 @@
 #include <stdio.h>
 #include <string.h>
 
-// SORTING ALGORITHMS CHEAT SHEET FOR EXAM
-
 // Test array for all examples
 int test_array[10] = {7, 2, 9, 1, 5, 6, 3, 8, 4, 10};
 

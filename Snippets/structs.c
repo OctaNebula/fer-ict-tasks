@@ -1,8 +1,6 @@
 #include <stdio.h>
 #include <string.h>
 
-// STRUCT OPERATIONS CHEAT SHEET FOR EXAM
-
 // 1. BASIC STRUCT DEFINITION
 struct student
 {

@@ -1,7 +1,5 @@
 #include <stdio.h>
 
-// MATRIX OPERATIONS CHEAT SHEET FOR EXAM
-
 // Test matrix for examples (3x3)
 int test_matrix[3][3] = {
     {1, 2, 3},
