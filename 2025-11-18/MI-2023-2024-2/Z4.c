@@ -14,7 +14,7 @@ int main()
     for (int i = max_shift; i >= 0; i--)
     {
         int window = (number >> i) & mask;
-        if (window == sample)
+        if ((unsigned int)window == sample)
         {
             count++;
         }
