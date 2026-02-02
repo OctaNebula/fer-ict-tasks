@@ -1,0 +1,6 @@
+Apple 1.20
+Banana 0.50
+Orange 0.80
+Milk 1.50
+Bread 2.00
+Linux 0.00
