@@ -91,7 +91,7 @@ int main(void)
         {
             break;
         }
-        tekst = malloc(1000); // for some reason adding this line of code adds at least 1 output lol
+        // tekst = malloc(1000); // for some reason adding this line of code adds at least 1 output lol
         dodajGenRecenicu(tekst, duljRijeci, brojRijeci);
 
         kontrolniIspis(tekst);
